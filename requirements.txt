@@ -1,5 +1,5 @@
 # Django & Core
-Django==1.11.9
+Django==1.11.29
 pymysql==0.8.0
 django-material==1.2.2
 urllib3==1.22
